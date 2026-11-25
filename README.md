@@ -19,6 +19,7 @@ Responsive static website for GitHub Pages. No build step, external JavaScript l
 - `privacy.html` — short notice describing the supplied static website, not a legal compliance certification.
 - `assets/projects/01.svg`–`06.svg` — conceptual workflow illustrations, not actual outputs or benchmark results.
 - `assets/social-card.png` — social sharing image.
+- `assets/profile.jpg` — user-provided portrait, optimized for web with image metadata removed.
 - `assets/favicon.svg` — browser icon.
 - `assets/MD_Ikram_Tareq_Public_CV.pdf` — new public-facing CV based on the updated portfolio facts. It is not a replacement for the previously approved role-specific application CVs.
 
